@@ -97,3 +97,30 @@ p{
 .image-container img.active {
     opacity: 1;
 }
+/* Estilos para la sección de recursos educativos */
+.resources {
+    margin-top: 50px;
+}
+
+.resources h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.resources ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.resources li {
+    margin-bottom: 10px;
+}
+
+.resources a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.resources a:hover {
+    text-decoration: underline;
+}
